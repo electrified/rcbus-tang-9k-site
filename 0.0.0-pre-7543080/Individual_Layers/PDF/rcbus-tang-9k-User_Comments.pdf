@@ -1,0 +1,743 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄mOI√ ºÁÛ‰º†Rè˝áJïri˝~!“™ëÖò±gºê#äjq¿≤Çq≠Ô—+xﬁ∏]êúzÛÜ˜ÚW;…ÑÏ(ÆjÒÍ’)îbHX19˚†é+œî†B]Ç£ñ›yÅò‰‘Ùª¬í}π;€zó…»dSvßd_ûΩw^∆ÏYüõˇœÊØÖ—¢ﬁŸ¡ÈÂÚÿCó
+endstream
+endobj
+6 0 obj
+153
+endobj
+26 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R]
+endobj
+27 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 26 0 R>>
+endobj
+28 0 obj
+<</S /GoTo /D [27 0 R /Fit]
+>>
+endobj
+31 0 obj
+<</S /GoTo /D [27 0 R /FitR 164 241 204 201]
+>>
+endobj
+33 0 obj
+<</S /GoTo /D [27 0 R /FitR 27 150 594 118]
+>>
+endobj
+35 0 obj
+<</S /GoTo /D [27 0 R /FitR 327 185 484 124]
+>>
+endobj
+37 0 obj
+<</S /GoTo /D [27 0 R /FitR 286 210 342 186]
+>>
+endobj
+39 0 obj
+<</S /GoTo /D [27 0 R /FitR 209 212 264 185]
+>>
+endobj
+41 0 obj
+<</S /GoTo /D [27 0 R /FitR 348 163 376 131]
+>>
+endobj
+43 0 obj
+<</S /GoTo /D [27 0 R /FitR 209 224 264 197]
+>>
+endobj
+45 0 obj
+<</S /GoTo /D [27 0 R /FitR 145 186 302 125]
+>>
+endobj
+47 0 obj
+<</S /GoTo /D [27 0 R /FitR 255 169 282 138]
+>>
+endobj
+49 0 obj
+<</S /GoTo /D [27 0 R /FitR 167 170 195 138]
+>>
+endobj
+51 0 obj
+<</S /GoTo /D [27 0 R /FitR 209 200 264 174]
+>>
+endobj
+53 0 obj
+<</S /GoTo /D [27 0 R /FitR 220 277 335 242]
+>>
+endobj
+55 0 obj
+<</S /GoTo /D [27 0 R /FitR 199 273 234 216]
+>>
+endobj
+57 0 obj
+<</S /GoTo /D [27 0 R /FitR 153 286 551 138]
+>>
+endobj
+59 0 obj
+<</S /GoTo /D [27 0 R /FitR 405 268 437 240]
+>>
+endobj
+61 0 obj
+<</S /GoTo /D [27 0 R /FitR 234 186 391 125]
+>>
+endobj
+63 0 obj
+<</S /GoTo /D [27 0 R /FitR 263 159 294 129]
+>>
+endobj
+65 0 obj
+<</S /GoTo /D [27 0 R /FitR 246 159 277 129]
+>>
+endobj
+67 0 obj
+<</S /GoTo /D [27 0 R /FitR 280 159 311 129]
+>>
+endobj
+2 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [174.492 211.607 194.193 231.308]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H1"],
+["Value = MountingHole"],
+["Footprint = MountingHole_3.2mm_M3"],
+["Description = Mounting Hole without connection"],
+["KiLib_Generator = mounting_hardware/mounting_hole"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [169.157 126.658 453.047 137.005]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = P1"],
+["Value = 1x39 pin header"],
+["Footprint = PinHeader_1x39_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x39, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [371.523 139.896 445.422 170.255]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U4"],
+["Value = SN74LVC245APW"],
+["Footprint = DIP-20_W7.62mm_Socket"],
+["Datasheet = https://www.ti.com/lit/ds/scas218x/scas218x.pdf", "https://www.ti.com/lit/ds/scas218x/scas218x.pdf"],
+["Description = 8-Bit Single-Supply Bus Transceiver With 5V tolerant input voltage and 3-State Outputs 24mA, TSSOP-20"],
+["KiLib_Generator = package/DIP/legacy"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [300.827 192.28 328.521 199.509]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = 1N4149"],
+["Footprint = D_DO-35_SOD27_P7.62mm_Horizontal"],
+["Datasheet = http://www.microsemi.com/document-portal/doc_view/11580-lds-0239", "http://www.microsemi.com/document-portal/doc_view/11580-lds-0239"],
+["Description = 75V Vrm 0.5A Ifsm standard switching diode, DO-35"],
+["KiLib_Generator = diode/THT"],
+["Sim.Device = D"],
+["Sim.Pins = 1=K 2=A"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [223.384 192.705 251.079 201.351]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = R"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["Description = Resistor"],
+["KiLib_Generator = resistor/THT"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [360.496 139.556 369.142 155.288]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C3"],
+["Value = C_Small"],
+["Footprint = C_Disc_D5.0mm_W2.5mm_P2.50mm"],
+["Description = Unpolarized capacitor, small symbol"],
+["KiLib_Generator = capacitor/THT/other"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [223.129 204.327 250.824 212.973]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = R"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["Description = Resistor"],
+["KiLib_Generator = resistor/THT"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [188.972 141.03 262.871 171.389]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U3"],
+["Value = SN74LVC245APW"],
+["Footprint = DIP-20_W7.62mm_Socket"],
+["Datasheet = https://www.ti.com/lit/ds/scas218x/scas218x.pdf", "https://www.ti.com/lit/ds/scas218x/scas218x.pdf"],
+["Description = 8-Bit Single-Supply Bus Transceiver With 5V tolerant input voltage and 3-State Outputs 24mA, TSSOP-20"],
+["KiLib_Generator = package/DIP/legacy"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [267.236 145.934 275.882 161.666]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C1"],
+["Value = C_Small"],
+["Footprint = C_Disc_D5.0mm_W2.5mm_P2.50mm"],
+["Description = Unpolarized capacitor, small symbol"],
+["KiLib_Generator = capacitor/THT/other"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [179.929 146.784 188.575 162.516]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C2"],
+["Value = C_Small"],
+["Footprint = C_Disc_D5.0mm_W2.5mm_P2.50mm"],
+["Description = Unpolarized capacitor, small symbol"],
+["KiLib_Generator = capacitor/THT/other"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [223.101 180.8 250.795 189.446]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R3"],
+["Value = R"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["Description = Resistor"],
+["KiLib_Generator = resistor/THT"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [253.176 251.184 306.609 268.589]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = Spares"],
+["Footprint = PinHeader_2x07_P2.54mm_Vertical"],
+["Description = Generic connector, double row, 02x07, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["KiLib_Generator = connector/pin_header_socket"],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [208.077 230.548 225.482 255.124]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = Conn_02x03_Odd_Even"],
+["Footprint = PinHeader_2x03_P2.54mm_Vertical"],
+["Description = Generic connector, double row, 02x03, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["KiLib_Generator = connector/pin_header_socket"],
+]\);) >>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [253.276 175.282 452.154 249.436]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U1"],
+["Value = Tang_Nano_9K"],
+["Footprint = DIP-48_TangNano9K"],
+["Datasheet = https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html", "https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html"],
+["Description = Tang Nano 9K FPGA"],
+["Akizuki = 117448"],
+]\);) >>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [413.504 252.516 429.236 261.162]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C4"],
+["Value = C_Small"],
+["Footprint = C_Disc_D5.0mm_W2.5mm_P2.50mm"],
+["Description = Unpolarized capacitor, small symbol"],
+["KiLib_Generator = capacitor/THT/other"],
+]\);) >>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [278.291 140.775 352.191 171.134]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = SN74LVC245APW"],
+["Footprint = DIP-20_W7.62mm_Socket"],
+["Datasheet = https://www.ti.com/lit/ds/scas218x/scas218x.pdf", "https://www.ti.com/lit/ds/scas218x/scas218x.pdf"],
+["Description = 8-Bit Single-Supply Bus Transceiver With 5V tolerant input voltage and 3-State Outputs 24mA, TSSOP-20"],
+["KiLib_Generator = package/DIP/legacy"],
+]\);) >>
+>>
+endobj
+23 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [271.557 136.934 286.864 152.241]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = G4"],
+["Value = Symbol_CC-Attribution_Silk_Small"],
+["Footprint = Symbol_CC-Attribution_Silk_Small"],
+]\);) >>
+>>
+endobj
+24 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [254.549 136.934 269.856 152.241]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = G5"],
+["Value = Symbol_CC-ShareAlike_Silk_Small"],
+["Footprint = Symbol_CC-ShareAlike_Silk_Small"],
+]\);) >>
+>>
+endobj
+25 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [288.567 136.934 303.874 152.241]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = G3"],
+["Value = Symbol_CreativeCommons_Silk_Type2_Small"],
+["Footprint = Symbol_CreativeCommons_Silk_Type2_Small"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i = 0; i < aEntries.length; ++i\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i].length > 1 ? aEntries[i][1] : ''
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice == null || cChoice == ''\) return;
+
+    if \(cChoice.substring\(0, 1\) == '#'\) {
+        this.pageNum = parseInt\(cChoice.slice\(1\)\);
+        return;
+    }
+
+    // Fallback: some viewers return cName instead of cReturn
+    var url = cChoice;
+    if \(url.substring\(0, 4\) != 'http' && url.substring\(0, 4\) != 'file'\) {
+        var idx = url.indexOf\('http'\);
+        if \(idx < 0\) idx = url.indexOf\('file:'\);
+        if \(idx >= 0\) url = url.substring\(idx\);
+        else return;
+    }
+
+    if \(url.substring\(0, 8\) == 'file:///'\) app.openDoc\(url.substring\(7\)\);
+    else if \(url.substring\(0, 7\) == 'file://'\) app.openDoc\('//' + url.substring\(7\)\);
+    else app.launchURL\(url\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+27 0 R
+]
+/Count 1
+>>
+endobj
+69 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:2026:07:26:17:37:07)
+/Creator (PCBNEW)
+/Title (rcbus-tang-9k-User_Comments.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+48 0 obj
+<<
+/Title (C1)
+/Parent 30 0 R
+/Next 50 0 R
+/A 47 0 R
+>>
+endobj
+50 0 obj
+<<
+/Title (C2)
+/Parent 30 0 R
+/Next 42 0 R
+/Prev 48 0 R
+/A 49 0 R
+>>
+endobj
+42 0 obj
+<<
+/Title (C3)
+/Parent 30 0 R
+/Next 60 0 R
+/Prev 50 0 R
+/A 41 0 R
+>>
+endobj
+60 0 obj
+<<
+/Title (C4)
+/Parent 30 0 R
+/Next 38 0 R
+/Prev 42 0 R
+/A 59 0 R
+>>
+endobj
+38 0 obj
+<<
+/Title (D1)
+/Parent 30 0 R
+/Next 68 0 R
+/Prev 60 0 R
+/A 37 0 R
+>>
+endobj
+68 0 obj
+<<
+/Title (G3)
+/Parent 30 0 R
+/Next 64 0 R
+/Prev 38 0 R
+/A 67 0 R
+>>
+endobj
+64 0 obj
+<<
+/Title (G4)
+/Parent 30 0 R
+/Next 66 0 R
+/Prev 68 0 R
+/A 63 0 R
+>>
+endobj
+66 0 obj
+<<
+/Title (G5)
+/Parent 30 0 R
+/Next 32 0 R
+/Prev 64 0 R
+/A 65 0 R
+>>
+endobj
+32 0 obj
+<<
+/Title (H1)
+/Parent 30 0 R
+/Next 54 0 R
+/Prev 66 0 R
+/A 31 0 R
+>>
+endobj
+54 0 obj
+<<
+/Title (J1)
+/Parent 30 0 R
+/Next 56 0 R
+/Prev 32 0 R
+/A 53 0 R
+>>
+endobj
+56 0 obj
+<<
+/Title (J2)
+/Parent 30 0 R
+/Next 34 0 R
+/Prev 54 0 R
+/A 55 0 R
+>>
+endobj
+34 0 obj
+<<
+/Title (P1)
+/Parent 30 0 R
+/Next 44 0 R
+/Prev 56 0 R
+/A 33 0 R
+>>
+endobj
+44 0 obj
+<<
+/Title (R1)
+/Parent 30 0 R
+/Next 40 0 R
+/Prev 34 0 R
+/A 43 0 R
+>>
+endobj
+40 0 obj
+<<
+/Title (R2)
+/Parent 30 0 R
+/Next 52 0 R
+/Prev 44 0 R
+/A 39 0 R
+>>
+endobj
+52 0 obj
+<<
+/Title (R3)
+/Parent 30 0 R
+/Next 58 0 R
+/Prev 40 0 R
+/A 51 0 R
+>>
+endobj
+58 0 obj
+<<
+/Title (U1)
+/Parent 30 0 R
+/Next 62 0 R
+/Prev 52 0 R
+/A 57 0 R
+>>
+endobj
+62 0 obj
+<<
+/Title (U2)
+/Parent 30 0 R
+/Next 46 0 R
+/Prev 58 0 R
+/A 61 0 R
+>>
+endobj
+46 0 obj
+<<
+/Title (U3)
+/Parent 30 0 R
+/Next 36 0 R
+/Prev 62 0 R
+/A 45 0 R
+>>
+endobj
+36 0 obj
+<<
+/Title (U4)
+/Parent 30 0 R
+/Prev 46 0 R
+/A 35 0 R
+>>
+endobj
+30 0 obj
+<<
+/Title (Footprints)
+/Parent 29 0 R
+/Count -19
+/First 48 0 R
+/Last 36 0 R
+/A 28 0 R
+>>
+endobj
+29 0 obj
+<<
+/Title (1 \(Page \))
+/Parent 70 0 R
+/Count -1
+/First 30 0 R
+/Last 30 0 R
+/A 28 0 R
+>>
+endobj
+70 0 obj
+<< /Type /Outlines
+   /Count 21
+   /First 29 0 R
+   /Last 29 0 R
+>>
+endobj
+71 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 70 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 72
+0000000000 65535 f 
+0000010889 00000 n 
+0000001875 00000 n 
+0000001896 00000 n 
+0000009757 00000 n 
+0000000015 00000 n 
+0000000242 00000 n 
+0000001918 00000 n 
+0000002284 00000 n 
+0000002690 00000 n 
+0000003229 00000 n 
+0000003789 00000 n 
+0000004129 00000 n 
+0000004489 00000 n 
+0000004829 00000 n 
+0000005368 00000 n 
+0000005728 00000 n 
+0000006088 00000 n 
+0000006426 00000 n 
+0000006958 00000 n 
+0000007503 00000 n 
+0000007972 00000 n 
+0000008332 00000 n 
+0000008872 00000 n 
+0000009163 00000 n 
+0000009452 00000 n 
+0000000261 00000 n 
+0000000409 00000 n 
+0000000613 00000 n 
+0000012807 00000 n 
+0000012702 00000 n 
+0000000660 00000 n 
+0000011780 00000 n 
+0000000724 00000 n 
+0000012035 00000 n 
+0000000787 00000 n 
+0000012630 00000 n 
+0000000851 00000 n 
+0000011440 00000 n 
+0000000915 00000 n 
+0000012205 00000 n 
+0000000979 00000 n 
+0000011270 00000 n 
+0000001043 00000 n 
+0000012120 00000 n 
+0000001107 00000 n 
+0000012545 00000 n 
+0000001171 00000 n 
+0000011113 00000 n 
+0000001235 00000 n 
+0000011185 00000 n 
+0000001299 00000 n 
+0000012290 00000 n 
+0000001363 00000 n 
+0000011865 00000 n 
+0000001427 00000 n 
+0000011950 00000 n 
+0000001491 00000 n 
+0000012375 00000 n 
+0000001555 00000 n 
+0000011355 00000 n 
+0000001619 00000 n 
+0000012460 00000 n 
+0000001683 00000 n 
+0000011610 00000 n 
+0000001747 00000 n 
+0000011695 00000 n 
+0000001811 00000 n 
+0000011525 00000 n 
+0000010949 00000 n 
+0000012912 00000 n 
+0000012996 00000 n 
+trailer
+<< /Size 72 /Root 71 0 R /Info 69 0 R >>
+startxref
+13137
+%%EOF
