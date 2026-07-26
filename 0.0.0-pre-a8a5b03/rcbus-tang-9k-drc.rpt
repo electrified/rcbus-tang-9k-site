@@ -1,0 +1,79 @@
+** Drc report for rcbus-tang-9k.kicad_pcb **
+** Created on 2026-07-26T23:07:03 **
+
+** Found 5 DRC violations **
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(107.8 mm, 132.03028 mm): PCB text 'Tang Nano 9K' on F.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(129.3 mm, 130.8 mm): PCB text 'CC BY-SA
+https://creativecommons.org' on B.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(159.25 mm, 161.0 mm): PCB text 'https://maidavale.org/projects/rcbus-tang-nano-9k' on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(154.5 mm, 120.5 mm): Arc on Edge.Cuts
+    @(89.9 mm, 117.8 mm): Rectangle of U1 on F.Silkscreen
+[courtyards_overlap]: Courtyards overlap
+    ; error (excluded)
+    @(121.7 mm, 130.8 mm): Footprint U1
+    @(135.75 mm, 122.7 mm): Footprint C4
+
+** Found 0 unconnected pads **
+
+** Found 17 Footprint errors **
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(97.8 mm, 150.76 mm): Footprint C1
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(66.2 mm, 150.76 mm): Footprint C2
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(129.5 mm, 150.75 mm): Footprint C3
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(135.75 mm, 122.7 mm): Footprint C4
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(108.08 mm, 146.7 mm): Footprint D1
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(65.032 mm, 131.882 mm): Footprint H1
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(75.66 mm, 130.54 mm): Footprint J1
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(76.9 mm, 118.02 mm): Footprint J2
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(61.5 mm, 163.5 mm): Footprint P1
+[footprint_symbol_mismatch]: Value (R2) doesn't match symbol value (R)
+    ; warning
+    @(62.69 mm, 141.9 mm): Footprint R2
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(62.69 mm, 141.9 mm): Footprint R2
+[footprint_symbol_mismatch]: Value (R3) doesn't match symbol value (R)
+    ; warning
+    @(62.69 mm, 145.5 mm): Footprint R3
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(62.69 mm, 145.5 mm): Footprint R3
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(121.7 mm, 130.8 mm): Footprint U1
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(101.024 mm, 158.4 mm): Footprint U2
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(69.388 mm, 158.4 mm): Footprint U3
+[footprint_symbol_field_mismatch]: Missing symbol field 'Digikey_URI' in footprint
+    ; warning
+    @(132.66 mm, 158.4 mm): Footprint U4
+
+** End of Report **

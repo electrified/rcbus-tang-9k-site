@@ -1,0 +1,87 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-07-26T23:07:11",
+    "ignored_checks": [
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.4",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/9a2d648d-863a-4b7b-80f9-d537185c212b",
+            "violations": [
+                {
+                    "description": "Assigned footprint (pinheader_1x39_p2.54mm_vertical) doesn't match footprint filters (Connector*:*_1x??_*)",
+                    "items": [
+                        {
+                            "description": "Symbol P1 [Conn_01x39]",
+                            "pos": {
+                                "x": 0.2667,
+                                "y": 0.6985
+                            },
+                            "uuid": "00000000-0000-0000-0000-000058978fea"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)",
+                    "items": [
+                        {
+                            "description": "Symbol U4 [SN74LVC245APW]",
+                            "pos": {
+                                "x": 1.2573,
+                                "y": 1.7399
+                            },
+                            "uuid": "5a07d702-9707-4231-98e8-b54d2d55081d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)",
+                    "items": [
+                        {
+                            "description": "Symbol U2 [SN74LVC245APW]",
+                            "pos": {
+                                "x": 1.27,
+                                "y": 0.5207
+                            },
+                            "uuid": "e03a87f1-10ef-4e50-9077-6e6c4774b425"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)",
+                    "items": [
+                        {
+                            "description": "Symbol U3 [SN74LVC245APW]",
+                            "pos": {
+                                "x": 1.27,
+                                "y": 1.1049
+                            },
+                            "uuid": "333bca37-b4a7-4f28-82ef-45d0c1ee36a0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                }
+            ],
+            "file_name": "rcbus-tang-9k.kicad_sch"
+        }
+    ],
+    "source": "rcbus-tang-9k.kicad_sch"
+}
