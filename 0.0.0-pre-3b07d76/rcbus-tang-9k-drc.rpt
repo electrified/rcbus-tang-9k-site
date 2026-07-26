@@ -1,0 +1,28 @@
+** Drc report for rcbus-tang-9k.kicad_pcb **
+** Created on 2026-07-26T21:47:37 **
+
+** Found 5 DRC violations **
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(107.8 mm, 132.03028 mm): PCB text 'Tang Nano 9K' on F.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(129.3 mm, 130.8 mm): PCB text 'CC BY-SA
+https://creativecommons.org' on B.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(159.25 mm, 161.0 mm): PCB text 'https://maidavale.org/projects/rcbus-tang-nano-9k' on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    ; warning
+    @(154.5 mm, 120.5 mm): Arc on Edge.Cuts
+    @(89.9 mm, 117.8 mm): Rectangle of U1 on F.Silkscreen
+[courtyards_overlap]: Courtyards overlap
+    ; error (excluded)
+    @(121.7 mm, 130.8 mm): Footprint U1
+    @(135.75 mm, 122.7 mm): Footprint C4
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

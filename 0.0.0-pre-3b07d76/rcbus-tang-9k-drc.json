@@ -1,0 +1,135 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-07-26T21:47:37",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "PTH inside courtyard",
+            "key": "pth_inside_courtyard"
+        },
+        {
+            "description": "NPTH inside courtyard",
+            "key": "npth_inside_courtyard"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.4",
+    "schematic_parity": [],
+    "source": "rcbus-tang-9k.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'Tang Nano 9K' on F.Silkscreen",
+                    "pos": {
+                        "x": 107.8,
+                        "y": 132.03028
+                    },
+                    "uuid": "defd1703-476f-4013-b2b7-b29af55e00c7"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'CC BY-SA\nhttps://creativecommons.org' on B.Silkscreen",
+                    "pos": {
+                        "x": 129.3,
+                        "y": 130.8
+                    },
+                    "uuid": "74d50a94-95e9-4e57-9cd2-84e7d9bcbcd1"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'https://maidavale.org/projects/rcbus-tang-nano-9k' on B.Silkscreen",
+                    "pos": {
+                        "x": 159.25,
+                        "y": 161.0
+                    },
+                    "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Silkscreen clipped by board edge",
+            "items": [
+                {
+                    "description": "Arc on Edge.Cuts",
+                    "pos": {
+                        "x": 154.5,
+                        "y": 120.5
+                    },
+                    "uuid": "09c6ca89-863f-42d4-867e-9a769c316610"
+                },
+                {
+                    "description": "Rectangle of U1 on F.Silkscreen",
+                    "pos": {
+                        "x": 89.9,
+                        "y": 117.8
+                    },
+                    "uuid": "bc2b33e5-4dab-4c63-8bbe-c775f7d6c23b"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "comment": "Cap intentionally under FPGA",
+            "description": "Courtyards overlap",
+            "excluded": true,
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 121.7,
+                        "y": 130.8
+                    },
+                    "uuid": "d156c89a-5e8e-4b86-9f0e-7b3de2b91a36"
+                },
+                {
+                    "description": "Footprint C4",
+                    "pos": {
+                        "x": 135.75,
+                        "y": 122.7
+                    },
+                    "uuid": "d7a106d8-c31e-48ce-8846-bd15a45e099b"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        }
+    ]
+}
