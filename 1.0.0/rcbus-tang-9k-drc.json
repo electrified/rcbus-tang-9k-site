@@ -1,0 +1,391 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-08-02T21:12:05",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "PTH inside courtyard",
+            "key": "pth_inside_courtyard"
+        },
+        {
+            "description": "NPTH inside courtyard",
+            "key": "npth_inside_courtyard"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint C1",
+                    "pos": {
+                        "x": 97.8,
+                        "y": 150.76
+                    },
+                    "uuid": "7e04a439-8f65-4e37-86a5-c0bdb2415534"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint C2",
+                    "pos": {
+                        "x": 66.2,
+                        "y": 150.76
+                    },
+                    "uuid": "88b6cdc1-e542-4054-aca6-31a65fd0f9f8"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint C3",
+                    "pos": {
+                        "x": 129.5,
+                        "y": 150.75
+                    },
+                    "uuid": "60623eb1-7b2f-4b50-aaf7-f5d1ae7be565"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint C4",
+                    "pos": {
+                        "x": 135.75,
+                        "y": 122.7
+                    },
+                    "uuid": "d7a106d8-c31e-48ce-8846-bd15a45e099b"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint D1",
+                    "pos": {
+                        "x": 108.08,
+                        "y": 146.7
+                    },
+                    "uuid": "38d2230c-175d-4bb7-a998-94822fd34663"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint H1",
+                    "pos": {
+                        "x": 65.032,
+                        "y": 131.882
+                    },
+                    "uuid": "00000000-0000-0000-0000-00005f188fc1"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint J1",
+                    "pos": {
+                        "x": 75.66,
+                        "y": 130.54
+                    },
+                    "uuid": "b0e7bfb2-1743-496a-b012-6ee195851a22"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint J2",
+                    "pos": {
+                        "x": 76.9,
+                        "y": 118.02
+                    },
+                    "uuid": "bb8b35a1-3ab6-4027-8692-a6ec43824ddb"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint P1",
+                    "pos": {
+                        "x": 61.5,
+                        "y": 163.5
+                    },
+                    "uuid": "00000000-0000-0000-0000-00005f1949bd"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Value (R2) doesn't match symbol value (R)",
+            "items": [
+                {
+                    "description": "Footprint R2",
+                    "pos": {
+                        "x": 62.69,
+                        "y": 141.9
+                    },
+                    "uuid": "3ac6c311-97f7-4342-8132-cd158262fe09"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint R2",
+                    "pos": {
+                        "x": 62.69,
+                        "y": 141.9
+                    },
+                    "uuid": "3ac6c311-97f7-4342-8132-cd158262fe09"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Value (R3) doesn't match symbol value (R)",
+            "items": [
+                {
+                    "description": "Footprint R3",
+                    "pos": {
+                        "x": 62.69,
+                        "y": 145.5
+                    },
+                    "uuid": "98a23d95-778f-4d6d-8415-21f4138c78e0"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint R3",
+                    "pos": {
+                        "x": 62.69,
+                        "y": 145.5
+                    },
+                    "uuid": "98a23d95-778f-4d6d-8415-21f4138c78e0"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 121.7,
+                        "y": 130.8
+                    },
+                    "uuid": "d156c89a-5e8e-4b86-9f0e-7b3de2b91a36"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint U2",
+                    "pos": {
+                        "x": 101.024,
+                        "y": 158.4
+                    },
+                    "uuid": "da4228f7-7722-4ae7-b3c7-4a58b695406e"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint U3",
+                    "pos": {
+                        "x": 69.388,
+                        "y": 158.4
+                    },
+                    "uuid": "7c6cd531-b943-4e81-8dee-4054bda4a207"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        },
+        {
+            "description": "Missing symbol field 'Digikey_URI' in footprint",
+            "items": [
+                {
+                    "description": "Footprint U4",
+                    "pos": {
+                        "x": 132.66,
+                        "y": 158.4
+                    },
+                    "uuid": "1758c2c7-e44e-4b67-bfc9-afec5b859e66"
+                }
+            ],
+            "severity": "warning",
+            "type": "footprint_symbol_field_mismatch"
+        }
+    ],
+    "source": "rcbus-tang-9k.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'Tang Nano 9K' on F.Silkscreen",
+                    "pos": {
+                        "x": 107.8,
+                        "y": 132.03028
+                    },
+                    "uuid": "defd1703-476f-4013-b2b7-b29af55e00c7"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'CC BY-SA\nhttps://creativecommons.org' on B.Silkscreen",
+                    "pos": {
+                        "x": 129.3,
+                        "y": 130.8
+                    },
+                    "uuid": "74d50a94-95e9-4e57-9cd2-84e7d9bcbcd1"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'https://maidavale.org/projects/rcbus-tang-nano-9k' on B.Silkscreen",
+                    "pos": {
+                        "x": 159.25,
+                        "y": 161.0
+                    },
+                    "uuid": "28b01cd2-da3a-46ec-8825-b0f31a0b8987"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Silkscreen clipped by board edge",
+            "items": [
+                {
+                    "description": "Arc on Edge.Cuts",
+                    "pos": {
+                        "x": 154.5,
+                        "y": 120.5
+                    },
+                    "uuid": "09c6ca89-863f-42d4-867e-9a769c316610"
+                },
+                {
+                    "description": "Rectangle of U1 on F.Silkscreen",
+                    "pos": {
+                        "x": 89.9,
+                        "y": 117.8
+                    },
+                    "uuid": "bc2b33e5-4dab-4c63-8bbe-c775f7d6c23b"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "comment": "Cap intentionally under FPGA",
+            "description": "Courtyards overlap",
+            "excluded": true,
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 121.7,
+                        "y": 130.8
+                    },
+                    "uuid": "d156c89a-5e8e-4b86-9f0e-7b3de2b91a36"
+                },
+                {
+                    "description": "Footprint C4",
+                    "pos": {
+                        "x": 135.75,
+                        "y": 122.7
+                    },
+                    "uuid": "d7a106d8-c31e-48ce-8846-bd15a45e099b"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        }
+    ]
+}
