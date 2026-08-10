@@ -1,0 +1,5 @@
+_local_|2026-08-09|root|Local changes not committed|False|True
+ebbae79|2026-08-09|ed|update pcb to match schematic|False|True
+8c03be5|2026-08-09|ed|commit local changes|True|True
+7510afb|2026-07-28|ed|reorg and routing|True|True
+638e2da|2026-07-26|ed|add git submodule library and kibot build stuff|True|True

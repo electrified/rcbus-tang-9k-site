@@ -1,0 +1,17 @@
+** Drc report for rcbus-parallel.kicad_pcb **
+** Created on 2026-08-09T23:11:27 **
+
+** Found 2 DRC violations **
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(89.8 mm, 158.3 mm): PCB text 'CC BY-SA
+https://creativecommons.org' on B.Silkscreen
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    ; warning
+    @(140.9 mm, 159.6 mm): PCB text 'maidavale.org/projects/rcbus-printer' on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

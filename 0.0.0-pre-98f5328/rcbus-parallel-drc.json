@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-08-09T23:11:27",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "PTH inside courtyard",
+            "key": "pth_inside_courtyard"
+        },
+        {
+            "description": "NPTH inside courtyard",
+            "key": "npth_inside_courtyard"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [],
+    "source": "rcbus-parallel.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'CC BY-SA\nhttps://creativecommons.org' on B.Silkscreen",
+                    "pos": {
+                        "x": 89.8,
+                        "y": 158.3
+                    },
+                    "uuid": "561f5d02-b256-4995-bf19-4059f9d3ad60"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'maidavale.org/projects/rcbus-printer' on B.Silkscreen",
+                    "pos": {
+                        "x": 140.9,
+                        "y": 159.6
+                    },
+                    "uuid": "997d1df1-447d-4a78-b0d4-5407d8dc0f0d"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        }
+    ]
+}
