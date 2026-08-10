@@ -1,0 +1,20 @@
+ERC report (2026-08-10T23:19:36, Encoding UTF8)
+
+***** Sheet /
+[footprint_filter]: Assigned footprint (pinheader_1x39_p2.54mm_vertical) doesn't match footprint filters (Connector*:*_1x??_*)
+    ; warning
+    @(0.2667 mm, 0.6985 mm): Symbol P1 [Conn_01x39]
+
+[footprint_filter]: Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)
+    ; warning
+    @(1.2573 mm, 1.7399 mm): Symbol U4 [SN74LVC245APW]
+
+[footprint_filter]: Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)
+    ; warning
+    @(1.27 mm, 0.5207 mm): Symbol U2 [SN74LVC245APW]
+
+[footprint_filter]: Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)
+    ; warning
+    @(1.27 mm, 1.1049 mm): Symbol U3 [SN74LVC245APW]
+
+ ** ERC messages: 4  Errors 0  Warnings 4
