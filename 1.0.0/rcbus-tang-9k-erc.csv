@@ -1,5 +1,0 @@
-"Sheet","Severity","Excluded","Type","Description","Details"
-"/ (rcbus-tang-9k.kicad_sch)","warning","False","footprint_filter","Assigned footprint (pinheader_1x39_p2.54mm_vertical) doesn't match footprint filters (Connector*:*_1x??_*)","@(0.2667 mm, 0.6985 mm): Symbol P1 [Conn_01x39]"
-"/ (rcbus-tang-9k.kicad_sch)","warning","False","footprint_filter","Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)","@(1.2573 mm, 1.7399 mm): Symbol U4 [SN74LVC245APW]"
-"/ (rcbus-tang-9k.kicad_sch)","warning","False","footprint_filter","Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)","@(1.27 mm, 0.5207 mm): Symbol U2 [SN74LVC245APW]"
-"/ (rcbus-tang-9k.kicad_sch)","warning","False","footprint_filter","Assigned footprint (dip-20_w7.62mm_socket) doesn't match footprint filters (TSSOP*4.4x6.5mm*P0.65mm*)","@(1.27 mm, 1.1049 mm): Symbol U3 [SN74LVC245APW]"

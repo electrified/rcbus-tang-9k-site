@@ -1,4 +1,0 @@
-"Check","Severity","Excluded","Type","Description","Details"
-"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(89.8 mm, 158.3 mm): PCB text 'CC BY-SA
-https://creativecommons.org' on B.Silkscreen"
-"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(140.9 mm, 159.6 mm): PCB text 'maidavale.org/projects/rcbus-printer' on B.Silkscreen"
