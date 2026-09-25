@@ -1,5 +1,5 @@
 ** Drc report for rcbus-tang-9k.kicad_pcb **
-** Created on 2026-08-10T22:54:28 **
+** Created on 2026-09-23T14:50:48 **
 
 ** Found 8 DRC violations **
 [clearance]: Clearance violation (netclass 'Default' clearance 0.5000 mm; actual 0.3000 mm)

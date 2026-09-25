@@ -452,8 +452,7 @@ var _hmt = _hmt || [];
 </ul>
 </li>
 <li class="not_active no_link"><a><span class="label">SLogic</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
-<li class="not_active with_link"><a href="/hardware/en/logic_analyzer/slogic_agent/index.html"><span class="label">Use SLogic with an Agent</span><span class=""></span></a></li>
-<li class="not_active with_link"><a href="/hardware/en/logic_analyzer/slogic_agent/stories/index.html"><span class="label">SLogic Agent Stories</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
+<li class="not_active with_link"><a href="/hardware/en/logic_analyzer/slogic_agent/index.html"><span class="label">SLogic with an AI Agent</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
 </ul>
 </li>
 <li class="not_active no_link"><a><span class="label">SLogic Combo 8</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
@@ -493,6 +492,7 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/introduction.html"><span class="label">Introduction</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/quick_start.html"><span class="label">Quick start</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/user_guide.html"><span class="label">User Guide</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/mcp.html"><span class="label">MCP</span><span class=""></span></a></li>
 <li class="not_active no_link"><a><span class="label">Network</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/network/tailscale.html"><span class="label">Tailscale</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/network/frp.html"><span class="label">frp</span><span class=""></span></a></li>
@@ -506,7 +506,6 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/system/configuration.html"><span class="label">Configuration</span><span class=""></span></a></li>
 </ul>
 </li>
-<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/ipmi.html"><span class="label">IPMI</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/faq.html"><span class="label">FAQ</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/development.html"><span class="label">Development</span><span class=""></span></a></li>
 </ul>
@@ -516,11 +515,15 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/quick_start.html"><span class="label">Quick Start</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/user_guide.html"><span class="label">User Guide</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/resolution.html"><span class="label">Resolution and EDID Settings</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/finger_robot.html"><span class="label">Finger Robot</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/mcp.html"><span class="label">MCP</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/memory_weaving.html"><span class="label">Memory Fabric</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/system/updating.html"><span class="label">KVM App Update</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/two_factor_authentication.html"><span class="label">Two-Factor Authentication</span><span class=""></span></a></li>
 <li class="not_active no_link"><a><span class="label">Network</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/network/tailscale.html"><span class="label">Tailscale</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/network/frp.html"><span class="label">frp</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/network/cloudflare_tunnel.html"><span class="label">Cloudflare Tunnel</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Go/network/static_ip.html"><span class="label">Static IP</span><span class=""></span></a></li>
 </ul>
 </li>
@@ -545,6 +548,7 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_PCIe/introduction.html"><span class="label">Introduction</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_PCIe/quick_start.html"><span class="label">Quick start</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_PCIe/user_guide.html"><span class="label">User Guide</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_PCIe/mcp.html"><span class="label">MCP</span><span class=""></span></a></li>
 <li class="not_active no_link"><a><span class="label">Network</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/network/tailscale.html"><span class="label">Tailscale</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/network/frp.html"><span class="label">frp</span><span class=""></span></a></li>
@@ -559,7 +563,6 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/system/configuration.html"><span class="label">Configuration</span><span class=""></span></a></li>
 </ul>
 </li>
-<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/ipmi.html"><span class="label">IPMI</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/faq.html"><span class="label">FAQ</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM/development.html"><span class="label">Development</span><span class=""></span></a></li>
 </ul>
@@ -581,6 +584,10 @@ var _hmt = _hmt || [];
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Pro/ledstrip.html"><span class="label">Screen Ambient Lighting</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Pro/cua.html"><span class="label">Experimental AI Agent</span><span class=""></span></a></li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Pro/kvm_admin.html"><span class="label">Batch Management</span><span class=""></span></a></li>
+<li class="not_active no_link"><a><span class="label">Practical Guides</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
+<li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Pro/macos_reinstall.html"><span class="label">Reinstall macOS</span><span class=""></span></a></li>
+</ul>
+</li>
 <li class="not_active with_link"><a href="/hardware/en/kvm/NanoKVM_Pro/faq.html"><span class="label">FAQ</span><span class=""></span></a></li>
 </ul>
 </li>

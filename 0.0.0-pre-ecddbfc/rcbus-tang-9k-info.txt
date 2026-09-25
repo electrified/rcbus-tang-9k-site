@@ -4,7 +4,7 @@
 KiBot installation checker
 
 Core:
-Linux: 6.17.0.1020 (Linux 2800b637b02e 6.17.0-1020-azure #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026 x86_64 GNU/Linux)
+Linux: 6.17.0.1022 (Linux b25c83a06867 6.17.0-1022-azure #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]
   /usr/lib/python3.13/os.py
@@ -79,6 +79,7 @@ Xvfb: Ok (xvfb-run)
   /usr/bin/rsvg-convert
 
 Environment:
+ACTIONS_CACHE_MODE
 ACTIONS_CACHE_URL
 ACTIONS_ORCHESTRATION_ID
 ACTIONS_RESULTS_URL
